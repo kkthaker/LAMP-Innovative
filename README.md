@@ -13,7 +13,7 @@ It is an Online Shopping website which has following properties.
 # 3.) List of Functionalities: - User can search a product, Add its Favourite product in Wishlist, add in cart, check in, checkout, manages site by admin, Fast Response in Navigation of pages (User Friendly) and many more etc.
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Video Links:-
-![GIF Link](Input-Output/LAMP_Innovative_Assignment.gif)
+![GIF](Input-Output/LAMP_Innovative_Assignment.gif)
 ----------------------------------------------------------------------------------------------------------------------------------------
 Youtube Link:- https://youtu.be/-7u0Kt9z-aU
 ----------------------------------------------------------------------------------------------------------------------------------------
