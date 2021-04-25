@@ -1,7 +1,7 @@
 # LAMP Technology(2CSDE69)
 # Innovative Project
 
-# This is a online shopping portal.
+# This is a Online Shopping Portal.
 
 Project Functionalities with Description:-
 It is an Online Shopping website which has following properties.
@@ -17,13 +17,13 @@ It is an Online Shopping website which has following properties.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Youtube Link:- https://youtu.be/-7u0Kt9z-aU
 ----------------------------------------------------------------------------------------------------------------------------------------
-How to run the Online Shoppinh Portal using PHP and MySQL
+How to run the Online Shoppinh Portal using PHP and MySQL?
 ----------------------------------------------------------------------------------------------------------------------------------------
 1. Download the  zip file
 ----------------------------------------------------------------------------------------------------------------------------------------
 2. Extract the file and copy shopping folder
 ----------------------------------------------------------------------------------------------------------------------------------------
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 ----------------------------------------------------------------------------------------------------------------------------------------
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -31,7 +31,7 @@ How to run the Online Shoppinh Portal using PHP and MySQL
 ----------------------------------------------------------------------------------------------------------------------------------------
 6. Import shopping file(given inside the zip package in SQL file folder)
 ----------------------------------------------------------------------------------------------------------------------------------------
-7.Run the script http://localhost/shopping (frontend)
+7. Run the script http://localhost/shopping (frontend)
 ----------------------------------------------------------------------------------------------------------------------------------------
 8. Link for admin Panel : http://localhost/shopping/admin
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ Password : Akshay123
 Username : 18bce240@nirmauni.ac.in
 Password : Kunj123
 ----------------------------------------------------------------------------------------------------------------------------------------
-# For Admin :
+# For Admin :-
 User Name : admin
 Password : admin123
 ----------------------------------------------------------------------------------------------------------------------------------------
