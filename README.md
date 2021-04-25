@@ -15,7 +15,7 @@ It is an Online Shopping website which has following properties.
 # Video Links:-
 ![GIF Link](Input-Output/LAMP_Innovative_Assignment.gif)
 ----------------------------------------------------------------------------------------------------------------------------------------
-Youtube Link:- (https://youtu.be/-7u0Kt9z-aU)
+Youtube Link:- https://youtu.be/-7u0Kt9z-aU
 ----------------------------------------------------------------------------------------------------------------------------------------
 How to run the Online Shoppinh Portal using PHP and MySQL
 ----------------------------------------------------------------------------------------------------------------------------------------
