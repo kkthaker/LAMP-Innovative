@@ -3,7 +3,7 @@
 
 # This is a online shopping portal.
 
-Project Functionalities with Description:
+Project Functionalities with Description:-
 It is an Online Shopping website which has following properties.
 ----------------------------------------------------------------------------------------------------------------------------------------
 # 1.) Modules: - Login/Sign Up, Cart, Wishlist, Product Description, Categories etc.
@@ -13,7 +13,9 @@ It is an Online Shopping website which has following properties.
 # 3.) List of Functionalities: - User can search a product, Add its Favourite product in Wishlist, add in cart, check in, checkout, manages site by admin, Fast Response in Navigation of pages (User Friendly) and many more etc.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Video Link:-
+![GIF Link](https://github.com/kkthaker/LAMP-Innovative/blob/main/LAMP_Innovative_Assignment.gif)
 ![Youtube Link](https://youtu.be/-7u0Kt9z-aU)
+----------------------------------------------------------------------------------------------------------------------------------------
 How to run the Online Shoppinh Portal using PHP and MySQL
 ----------------------------------------------------------------------------------------------------------------------------------------
 1. Download the  zip file
